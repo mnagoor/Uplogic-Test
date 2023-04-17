@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "243168005642",
+    "project_id": "testuplogic-d8686",
+    "storage_bucket": "testuplogic-d8686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243168005642:android:b1363852a28f685f1719f3",
+        "android_client_info": {
+          "package_name": "com.testuplogic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243168005642-scgimdp14br91atklg4vk1ple4ga2i9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testuplogic",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "243168005642-ano3isg6hbq333vg719rnu0ncjco3p2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjMpgfggqfVViXJ-t6RZ4OJDKjob8yVWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243168005642-ano3isg6hbq333vg719rnu0ncjco3p2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
